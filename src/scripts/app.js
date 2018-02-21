@@ -10,6 +10,7 @@
 
 */
 
+import Vue from 'vue'
 import __DATA__ from './data'
 
 const newObj = {};
